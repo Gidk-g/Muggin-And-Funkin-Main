@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"full-glass",
+			"cuphead",
+			[
+				215,
+				57,
+				62
+			]
+		],
+		[
+			"pumped",
+			"cuphead",
+			[
+				215,
+				57,
+				62
+			]
+		],
+		[
+			"double-down",
+			"cuphead",
+			[
+				215,
+				57,
+				62
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"cuphead",
+		"bf",
+		"gf"
+	],
+	"storyName": "FUNNY CUP",
+	"weekName": "Cuphead",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

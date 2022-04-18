@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cuphead_dialogues_portrait_by_butter.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ha0000" x="0" y="0" width="388" height="375" frameX="0" frameY="-26" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0001" x="388" y="0" width="387" height="391" frameX="-2" frameY="-10" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0002" x="775" y="0" width="387" height="391" frameX="-2" frameY="-10" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0003" x="1162" y="0" width="386" height="401" frameX="-5" frameY="0" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0004" x="1548" y="0" width="385" height="378" frameX="-5" frameY="-23" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0005" x="1933" y="0" width="382" height="371" frameX="-8" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0006" x="2315" y="0" width="381" height="371" frameX="-9" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0007" x="2696" y="0" width="381" height="371" frameX="-9" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0008" x="3077" y="0" width="381" height="371" frameX="-9" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0009" x="3458" y="0" width="381" height="371" frameX="-9" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0010" x="0" y="401" width="381" height="371" frameX="-9" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0011" x="381" y="401" width="381" height="371" frameX="-9" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0012" x="762" y="401" width="381" height="371" frameX="-9" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0013" x="1143" y="401" width="381" height="371" frameX="-9" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="ha0014" x="1524" y="401" width="381" height="371" frameX="-9" frameY="-30" frameWidth="391" frameHeight="401"/>
+	<SubTexture name="huh0000" x="1905" y="401" width="226" height="381" frameX="-9" frameY="-13" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0001" x="2131" y="401" width="222" height="394" frameX="-6" frameY="0" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0002" x="2353" y="401" width="217" height="392" frameX="-4" frameY="-2" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0003" x="2570" y="401" width="212" height="388" frameX="0" frameY="-6" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0004" x="2782" y="401" width="212" height="388" frameX="0" frameY="-6" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0005" x="2994" y="401" width="212" height="384" frameX="-2" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0006" x="3206" y="401" width="213" height="384" frameX="-4" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0007" x="3419" y="401" width="213" height="384" frameX="-4" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0008" x="3632" y="401" width="213" height="384" frameX="-4" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0009" x="3845" y="401" width="213" height="384" frameX="-4" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0010" x="0" y="795" width="213" height="384" frameX="-4" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0011" x="213" y="795" width="213" height="384" frameX="-4" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0012" x="426" y="795" width="213" height="384" frameX="-4" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0013" x="639" y="795" width="213" height="384" frameX="-4" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="huh0014" x="852" y="795" width="213" height="384" frameX="-4" frameY="-10" frameWidth="235" frameHeight="394"/>
+	<SubTexture name="looking0000" x="1065" y="795" width="233" height="370" frameX="0" frameY="-14" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0001" x="1298" y="795" width="227" height="378" frameX="-1" frameY="-6" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0002" x="1525" y="795" width="217" height="384" frameX="-2" frameY="0" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0003" x="1742" y="795" width="217" height="384" frameX="-2" frameY="0" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0004" x="1959" y="795" width="217" height="376" frameX="-2" frameY="-8" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0005" x="2176" y="795" width="221" height="376" frameX="-2" frameY="-8" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0006" x="2397" y="795" width="223" height="378" frameX="-2" frameY="-6" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0007" x="2620" y="795" width="223" height="378" frameX="-2" frameY="-6" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0008" x="2843" y="795" width="223" height="378" frameX="-2" frameY="-6" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0009" x="3066" y="795" width="223" height="378" frameX="-2" frameY="-6" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0010" x="3289" y="795" width="223" height="378" frameX="-2" frameY="-6" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0011" x="3512" y="795" width="223" height="378" frameX="-2" frameY="-6" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0012" x="3735" y="795" width="223" height="378" frameX="-2" frameY="-6" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0013" x="0" y="1179" width="223" height="378" frameX="-2" frameY="-6" frameWidth="233" frameHeight="384"/>
+	<SubTexture name="looking0014" x="223" y="1179" width="223" height="378" frameX="-2" frameY="-6" frameWidth="233" frameHeight="384"/>
+</TextureAtlas>

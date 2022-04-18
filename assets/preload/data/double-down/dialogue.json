@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cup",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what? you wanna play against my brother after round?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "BIP YEAH!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cup",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "um...how do you know i have a brother?..... whatever"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cup",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ready yourself this time!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bip bep yeah!"
+		}
+	]
+}

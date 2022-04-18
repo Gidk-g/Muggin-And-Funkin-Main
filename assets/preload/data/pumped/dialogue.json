@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cup",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "hey that was pretty fun!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cup",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whats that ..? another few rounds?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep BOP!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cup",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cup",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "2 more couldn't hurt, BRING IT ON!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "YEAH!"
+		}
+	]
+}

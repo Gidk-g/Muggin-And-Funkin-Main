@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		40
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-12
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "huh",
+			"idle_name": "huh0104"
+		},
+		{
+			"loop_offsets": [
+				57,
+				-2
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				57,
+				-2
+			],
+			"loop_name": "ha",
+			"idle_name": "ha0014"
+		},
+		{
+			"loop_offsets": [
+				11,
+				-19
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				11,
+				-19
+			],
+			"loop_name": "looking",
+			"idle_name": "looking0014"
+		}
+	],
+	"image": "CUP_Dialogue"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				-351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-100,
+				-352
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-82,
+				-236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-39,
+				-264
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-70,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cuphead_assets",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		57,
+		62
+	],
+	"camera_position": [
+		-60,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
