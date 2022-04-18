@@ -14,7 +14,7 @@
 			"portrait": "cup",
 			"boxState": "normal",
 			"expression": "pissed",
-			"text": "hm?"
+			"text": "Huh?"
 		},
 		{
 			"sound": "",
@@ -22,7 +22,7 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "beep bop"
+			"text": "Beep bop?"
 		},
 		{
 			"sound": "",
@@ -30,7 +30,7 @@
 			"portrait": "cup",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "uh..a rap battle? but i dont even know who you are"
+			"text": "Uh...? A rap battle? But i dont even know you-"
 		},
 		{
 			"sound": "",
@@ -38,7 +38,7 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "beep ska ta"
+			"text": "Beep ska ta!"
 		},
 		{
 			"sound": "",
@@ -46,7 +46,7 @@
 			"portrait": "cup",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "...bf...him weird name but"
+			"text": "...Boy...Friend? ...What a weird name, but-"
 		},
 		{
 			"sound": "",
@@ -54,7 +54,7 @@
 			"portrait": "cup",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "a rap battle sounds fun! Let's do dis"
+			"text": "A rap battle sounds like fun! Let's do This!"
 		},
 		{
 			"sound": "",
@@ -62,7 +62,7 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "yeah!"
+			"text": "Yeah!"
 		}
 	]
 }

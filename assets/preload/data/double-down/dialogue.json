@@ -6,7 +6,7 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "beep bop"
+			"text": "Beep bap!"
 		},
 		{
 			"sound": "",
@@ -14,7 +14,7 @@
 			"portrait": "cup",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "what? you wanna play against my brother after round?"
+			"text": "What? You wanna play against my brother after this round?"
 		},
 		{
 			"sound": "",
@@ -22,7 +22,7 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "pissed",
-			"text": "BIP YEAH!"
+			"text": "BEEP BOOP HELL YEAH!"
 		},
 		{
 			"sound": "",
@@ -30,7 +30,7 @@
 			"portrait": "cup",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "um...how do you know i have a brother?..... whatever"
+			"text": "Umm... How do you even know i have a brother...? Meh, whatever-"
 		},
 		{
 			"sound": "",
@@ -38,7 +38,7 @@
 			"portrait": "cup",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "ready yourself this time!"
+			"text": "Ready yourself this time BF!"
 		},
 		{
 			"sound": "",
@@ -46,7 +46,7 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "pissed",
-			"text": "bip bep yeah!"
+			"text": "Beep bop yeah!"
 		}
 	]
 }
