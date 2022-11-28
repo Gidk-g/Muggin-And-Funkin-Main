@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "house",
+		"player1": "bf",
+		"player2": "cuphead",
+		"player3": null,
+		"events": [
+			[
+				79499.9999999999,
+				[
+					[
+						"DodgeEvent",
+						"0.50",
+						""
+					]
+				]
+			],
+			[
+				79941.1764705881,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				80294.1176470587,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"BF"
+					]
+				]
+			],
+			[
+				80558.8235294117,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						""
+					]
+				]
+			],
+			[
+				80735.2941176469,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"0.6"
+					]
+				]
+			],
+			[
+				80823.5294117646,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				81529.4117647058,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "double-down"
+	}
+}
